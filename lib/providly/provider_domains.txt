@@ -430,6 +430,7 @@ conok.com
 consultant.com
 cookiemonster.com
 cool.br
+cool.fr.nf
 coolgoose.ca
 coolgoose.com
 coolkiwi.com
@@ -447,6 +448,7 @@ corporatedirtbag.com
 correo.terra.com.gt
 cortinet.com
 cotas.net
+courriel.fr.nf
 counsellor.com
 countrylover.com
 cox.net
@@ -1111,6 +1113,7 @@ jazzandjava.com
 jazzfan.com
 jazzgame.com
 jerusalemmail.com
+jetable.fr.nf
 jetemail.net
 jewishmail.com
 jippii.fi
@@ -2623,6 +2626,7 @@ medical.net.au
 medmail.com
 medscape.com
 meetingmall.com
+mega.zik.dj
 megago.com
 megamail.pt
 megapoint.com
@@ -2658,6 +2662,9 @@ mohammed.com
 moldova.cc
 moldova.com
 moldovacc.com
+moncourrier.fr.nf
+monemail.fr.nf
+monmail.fr.nf
 money.net
 montevideo.com.uy
 moonman.com
@@ -2777,9 +2784,11 @@ nikopage.com
 nimail.com
 nirvanafan.com
 noavar.com
+nomail.xl.cx
 norika-fujiwara.com
 norikomail.com
 northgates.net
+nospam.ze.tc
 nospammail.net
 ntscan.com
 ny.com
@@ -3132,6 +3141,7 @@ spacewar.com
 spamex.com
 spartapiet.com
 spazmail.com
+speed.1s.fr
 speedemail.net
 speedpost.net
 speedrules.com
@@ -3589,6 +3599,8 @@ ymail.com
 ynnmail.com
 yogotemail.com
 yopmail.fr
+yopmail.net
+yopmail.com
 yopolis.com
 youareadork.com
 youpy.com
